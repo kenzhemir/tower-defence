@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44ea5917238b7e540aad0bed7499a25c, type: 3}
+  m_Name: MageTower
+  m_EditorClassIdentifier: 
+  Name: ArcaneTower
+  Cost: 20
+  ShootingDelay: 0.4
+  Shortcut: A
+  TopIcon: {fileID: -4147054728263199701, guid: 4f4e0b606a3604c44bd96514016a0a50, type: 3}
+  BottomIcon: {fileID: 134106429331119553, guid: 4f4e0b606a3604c44bd96514016a0a50, type: 3}
+  TowerPrefab: {fileID: 2710894343676425167, guid: b55259a333c99104f983d8550499d196, type: 3}
+  BulletPrefab: {fileID: 1801406996937583507, guid: edcafb53f15016844a5de2367b40e98b, type: 3}
